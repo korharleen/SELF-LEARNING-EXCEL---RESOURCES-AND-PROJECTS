@@ -6,7 +6,7 @@ Here are some resources.
 
 It’s a wonderful youtube tutorial, from the scratch, well structured, and completely practical based.
 
- [LINK] to some of the small projects or assignments that I did while Learning from the above-mentioned Resource.
+ [Here ](https://medium.com/@dharleen22/self-learning-excel-e78455114f47)you can find some of the small projects or assignments that I did while Learning from the above-mentioned Resource.
  
  [Click Here ](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=7883s) In case you wish to try!
  
@@ -14,7 +14,7 @@ It’s a wonderful youtube tutorial, from the scratch, well structured, and comp
  
  This is a properly guided project, This gave me a lot of clarity regarding all the important aspects of EXCEL
  
- [Link My Project]
+ [Here](https://medium.com/@dharleen22/self-learning-excel-e78455114f47) you can find Link to DashBoard I have created.
  
  [Click Here ](https://www.youtube.com/watch?v=opJgMj1IUrc) if you wish to try.
  
